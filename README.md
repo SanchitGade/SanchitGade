@@ -2,6 +2,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Sanchit </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<!-- Header Section -->
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | 💻 Full Stack Developer | 🪙 Web3 | 🤖 AI | 🎨UI/UX <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -32,3 +33,56 @@
  <h5 align="center">
    <i>⚡️i don't trust people who have never deleted node_modules⚡️</i>
 </h5>
+
+<br />
+
+<!-- Into Body  -->
+<img
+  align="right"
+  height="270px"
+  width="450px"
+  alt="Spidey animation"
+  src="./svgs/animation_spider.svg"
+/>
+
+<h3>👋 Hey, I'm Sanchit.</h3>
+
+<h4>Full-Stack Developer from India 🇮🇳</h4>
+
+- 💻 I build full-stack applications and occasionally build things that didn't need to exist.
+
+- ⚛️ React on the frontend, Node.js on the backend, and questionable decisions everywhere in between.
+
+- 🧠 Currently grinding DSA with Java.
+
+- 🌐 Exploring Web3, Solidity & smart contracts.
+
+- 🎨 Slightly obsessed with clean UI, animations and good developer experiences.
+
+- 🤖 Using AI to code faster and then debugging the AI's code.
+
+- 🐛 I don't trust code that works on the first try.
+
+- ☕ Powered by caffeine, curiosity and `console.log()`.
+
+<br />
+
+<!-- TechStack Section -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <strong>Languages</strong>
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript&theme=light" />
+</p>
+
+<p align="center">
+  <strong>Frontend & Backend</strong>
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,tailwind&theme=light" />
+</p>
+
+<p align="center">
+  <strong>Database & Tools</strong>
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,figma,docker,aws,vscode&theme=light" />
+</p>
