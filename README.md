@@ -59,8 +59,6 @@
 
 - 🎨 Slightly obsessed with clean UI, animations and good developer experiences.
 
-- 🤖 Using AI to code faster and then debugging the AI's code.
-
 - 🐛 I don't trust code that works on the first try.
 
 - ☕ Powered by caffeine, curiosity and `console.log()`.
@@ -86,3 +84,34 @@
   <br />
   <img src="https://skillicons.dev/icons?i=mongodb,git,github,figma,docker,aws,vscode&theme=light" />
 </p>
+
+<br />
+
+<!-- GitHub Stats Section - Side by Side -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://readme-stats-github.pages.dev/api?username=SanchitGade&theme=shadow" alt="SanchitGade's GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=SanchitGade&theme=shadow" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<p align="center">Made with ❤️ in India</p>
+<br />
+
+<!-- Wave Animation at Bottom -->
+<div align="center">
+  <img
+    width="100%"
+    height="300px"
+    alt="wave animation"
+    src="./svgs/wave.svg"
+  />
+</div>
